@@ -12,7 +12,7 @@ vendas = [10, 25, 18, 30, 22]
  
 # Estilo do gráfico com Seaborn
 
-sns.set_style("darkgrid")
+sns.set_style("whitegrid")
  
 # Cria o gráfico com Matplotlib
 
