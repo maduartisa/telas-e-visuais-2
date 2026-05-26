@@ -30,4 +30,4 @@ plt.ylabel("Quantidade de Vendas")
 
 plt.show()
 
- 
+  
